@@ -1,0 +1,999 @@
+<title>
+    我的中文
+</title>
+
+<meta charset="utf-8"> 
+<head>
+    <script type="text/javascript" src="../index.js"></script>
+    <script type="text/javascript" src="chinese.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="chinese.css">
+    <link rel="stylesheet" type="text/css" href="../index.css">
+
+</head>
+
+<body>
+    <div id = "navigation">chinese</div>
+    <!--
+<ul>
+<li><a href="/Svarbus%20reikalai/programos/Web/Mano/index.html">Home</a></li>
+<li><a class="active" href="/Svarbus%20reikalai/programos/Web/Mano/chinese/chinese.html">中文汉子</a></li>
+<li><a href="/Svarbus%20reikalai/programos/Web/Mano/me.html">Me</a></li>
+<li><div id = "time" class = "time"></div></li>
+</ul>
+-->
+
+    <h1 class = "title">中文汉子</h1><br>
+
+
+    <div class="total">
+        Total known characters:
+        <div id = "total"></div>
+    </div>
+
+    <h2>Known character table:</h2> 
+
+
+    <table id="details" class="details">
+        <tr>
+            <th>Radical 部首</th>
+            <th>Known Characters 汉子</th>
+        </tr>
+
+        <tr>
+            <td class = "radicals"><div onclick="details(this)" class = "radical">一</div></td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">一</div>，
+                <div onclick="details(this)" class = "character1">七</div>，
+                <div onclick="details(this)" class = "character1">三</div>，
+                <div onclick="details(this)" class = "character4">上</div>，
+                <div onclick="details(this)" class = "character4">下</div>，
+                <div onclick="details(this)" class = "character4">不</div>，
+                <div onclick="details(this)" class = "character4">世</div>，
+                <div onclick="details(this)" class = "character4">业</div>，
+                <div onclick="details(this)" class = "character1">东</div>，
+                <div onclick="details(this)" class = "character4">万</div>，
+                <div onclick="details(this)" class = "character3">两</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals"><div onclick="details(this)" class = "radical">丨</div></td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">个</div>，
+                <div onclick="details(this)" class = "character1">中</div>，
+                <div onclick="details(this)" class = "character1">书</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">丶</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">为</div>
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">丿</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">之</div>，
+                <div onclick="details(this)" class = "character5">么</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">乙</div>，
+                <div onclick="details(this)" class = "radical">乚</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">也</div>，
+                <div onclick="details(this)" class = "character3">九</div>，
+                <div onclick="details(this)" class = "character1">飞</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">亅</div>，
+                <div onclick="details(this)" class = "radical">了</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character5">了</div>
+            </td>
+        </tr>
+
+
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">二</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">二</div>，
+                <div onclick="details(this)" class = "character3">五</div>，
+                <div onclick="details(this)" class = "character1">些</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">亠</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">京</div>，
+            </td>
+        </tr>
+
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">人</div>，
+                <div onclick="details(this)" class = "radical">亻</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character2">人</div>，
+                <div onclick="details(this)" class = "character1">他</div>，
+                <div onclick="details(this)" class = "character5">们</div>，
+                <div onclick="details(this)" class = "character3">你</div>，
+                <div onclick="details(this)" class = "character3">以</div>，
+                <div onclick="details(this)" class = "character4">会</div>，
+                <div onclick="details(this)" class = "character4">作</div>，
+                <div onclick="details(this)" class = "character2">从</div>，
+                <div onclick="details(this)" class = "character4">信</div>，
+                <div onclick="details(this)" class = "character1">今</div>，
+                <div onclick="details(this)" class = "character2">什</div>，
+                <div onclick="details(this)" class = "character4">做</div>，
+                <div onclick="details(this)" class = "character4">件</div>，
+                <div onclick="details(this)" class = "character4">住</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">儿</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character2">儿</div>，
+                <div onclick="details(this)" class = "character1">先</div>，
+                <div onclick="details(this)" class = "character1">光</div>，
+                <div onclick="details(this)" class = "character2">元</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">入</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">内</div>，
+                <div onclick="details(this)" class = "character2">全</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">八</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">八</div>，
+                <div onclick="details(this)" class = "character1">公</div>，
+                <div onclick="details(this)" class = "character1">关</div>，
+                <div onclick="details(this)" class = "character4">六</div>，
+                <div onclick="details(this)" class = "character4">共</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">冂</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">再</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">冖</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">写</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">冫</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character2">习</div>，
+                <div onclick="details(this)" class = "character1">冬</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">几</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">几</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">凵</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">出</div>
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">刀</div>，
+                <div onclick="details(this)" class = "radical">刂</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">刀</div>，
+                <div onclick="details(this)" class = "character4">到</div>，
+                <div onclick="details(this)" class = "character2">前</div>，
+                <div onclick="details(this)" class = "character2">别</div>，
+                <div onclick="details(this)" class = "character1">分</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">力</div>
+            </td>
+            <td class = "characters">
+
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">勹</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">包</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">匕</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">北</div>
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">匚</div>
+            </td>
+            <td class = "characters">
+
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">匸</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">医</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">十</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character2">十</div>，
+                <div onclick="details(this)" class = "character2">华</div>，
+                <div onclick="details(this)" class = "character4">卖</div>，
+                <div onclick="details(this)" class = "character1">千</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">卜</div>
+            </td>
+            <td class = "characters">
+
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">卩</div>
+            </td>
+            <td class = "characters">
+
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">厂</div>
+            </td>
+            <td class = "characters">
+
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">厶</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">去</div>
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">又</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">又</div>，
+                <div onclick="details(this)" class = "character1">双</div>，
+            </td>
+        </tr>
+
+
+        <tr>
+            <td class = "radicals"><div onclick="details(this)" class = "radical">大</div></td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">大</div>，
+                <div onclick="details(this)" class = "character1">天</div>，
+                <div onclick="details(this)" class = "character2">头</div>，
+                <div onclick="details(this)" class = "character4">太</div>，
+                <div onclick="details(this)" class = "character3">买</div>，
+            </td>
+        </tr>
+
+        <tr>
+            <td class = "radicals"><div onclick="details(this)" class = "radical">囗</div></td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character2">国</div>，
+                <div onclick="details(this)" class = "character4">四</div>，
+                <div onclick="details(this)" class = "character1">因</div>，
+                <div onclick="details(this)" class = "character2">回</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">口</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">口</div>，
+                <div onclick="details(this)" class = "character2">和</div>，
+                <div onclick="details(this)" class = "character3">可</div>，
+                <div onclick="details(this)" class = "character4">后</div>，
+                <div onclick="details(this)" class = "character3">只</div>，
+                <div onclick="details(this)" class = "character2">名</div>，
+                <div onclick="details(this)" class = "character1">听</div>，
+                <div onclick="details(this)" class = "character1">吃</div>，
+                <div onclick="details(this)" class = "character4">唱</div>，
+                <div onclick="details(this)" class = "character3">古</div>，
+                <div onclick="details(this)" class = "character5">吗</div>，
+                <div onclick="details(this)" class = "character2">同</div>，
+                <div onclick="details(this)" class = "character5">啊</div>，
+                <div onclick="details(this)" class = "character4">右</div>，
+                <div onclick="details(this)" class = "character1">喝</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals"><div onclick="details(this)" class = "radical">土</div></td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">在</div>，
+                <div onclick="details(this)" class = "character4">地</div>，
+                <div onclick="details(this)" class = "character4">坐</div>，
+                <div onclick="details(this)" class = "character4">块</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">宀</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">家</div>，
+                <div onclick="details(this)" class = "character1">安</div>，
+                <div onclick="details(this)" class = "character1">它</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">干</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character2">年</div>，
+                <div onclick="details(this)" class = "character2">平</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">广</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">座</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">子</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">子</div>，
+                <div onclick="details(this)" class = "character2">学</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">彳</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character5">得</div>，
+                <div onclick="details(this)" class = "character3">很</div>，
+                <div onclick="details(this)" class = "character3">往</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">尢</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">就</div>
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">寸</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">对</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">女</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">女</div>，
+                <div onclick="details(this)" class = "character1">她</div>，
+                <div onclick="details(this)" class = "character3">好</div>，
+                <div onclick="details(this)" class = "character1">妈</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">小</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">小</div>，
+                <div onclick="details(this)" class = "character3">少</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">夕</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">多</div>，
+                <div onclick="details(this)" class = "character4">外</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">山</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">山</div>，
+                <div onclick="details(this)" class = "character3">岛</div>，
+                <div onclick="details(this)" class = "character4">岁</div>，
+            </td>
+        </tr>   
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">廾</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">开</div>，
+            </td>
+        </tr> 
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">工</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">工</div>，
+                <div onclick="details(this)" class = "character3">左</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">火</div>，
+                <div onclick="details(this)" class = "radical">灬</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">火</div>，
+                <div onclick="details(this)" class = "character3">点</div>，
+                <div onclick="details(this)" class = "character1">灯</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">爪</div>，
+                <div onclick="details(this)" class = "radical">爫</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">爱</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">父</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">爸</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">牛</div>，
+                <div onclick="details(this)" class = "radical">牜</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character2">牛</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">犬</div>，
+                <div onclick="details(this)" class = "radical">犭</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">猫</div>，
+                <div onclick="details(this)" class = "character3">狗</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">比</div>，
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">比</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">毛</div>，
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character2">毛</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">手</div>，
+                <div onclick="details(this)" class = "radical">扌</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">手</div>，
+                <div onclick="details(this)" class = "character2">才</div>，
+                <div onclick="details(this)" class = "character3">找</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals"><div onclick="details(this)" class = "radical">日</div></td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">日</div>，
+                <div onclick="details(this)" class = "character4">是</div>，
+                <div onclick="details(this)" class = "character2">时</div>，
+                <div onclick="details(this)" class = "character2">明</div>，
+                <div onclick="details(this)" class = "character1">春</div>，
+                <div onclick="details(this)" class = "character3">早</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals"><div onclick="details(this)" class = "radical">曰</div></td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">电</div>，
+                <div onclick="details(this)" class = "character4">最</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals"><div onclick="details(this)" class = "radical">月</div></td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">月</div>，
+                <div onclick="details(this)" class = "character3">有</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals"><div onclick="details(this)" class = "radical">木</div></td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">木</div>，
+                <div onclick="details(this)" class = "character2">来</div>，
+                <div onclick="details(this)" class = "character3">果</div>，
+                <div onclick="details(this)" class = "character4">样</div>，
+                <div onclick="details(this)" class = "character2">林</div>，
+                <div onclick="details(this)" class = "character1">机</div>
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals"><div onclick="details(this)" class = "radical">止</div></td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">正</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals"><div onclick="details(this)" class = "radical">戈</div></td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">我</div>
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">心</div>，
+                <div onclick="details(this)" class = "radical">忄</div>，
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">心</div>，
+                <div onclick="details(this)" class = "character3">想</div>，
+                <div onclick="details(this)" class = "character3">怎</div>，
+                <div onclick="details(this)" class = "character2">您</div>，
+                <div onclick="details(this)" class = "character4">快</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">水</div>，
+                <div onclick="details(this)" class = "radical">氵</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">水</div>，
+                <div onclick="details(this)" class = "character2">没</div>，
+                <div onclick="details(this)" class = "character3">法</div>，
+                <div onclick="details(this)" class = "character3">海</div>，
+                <div onclick="details(this)" class = "character4">汉</div>，
+                <div onclick="details(this)" class = "character3">洗</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">毋</div>，
+                <div onclick="details(this)" class = "radical">母</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">母</div>，
+                <div onclick="details(this)" class = "character3">每</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">玉</div>，
+                <div onclick="details(this)" class = "radical">玊</div>，
+                <div onclick="details(this)" class = "radical">王</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character2">王</div>，
+                <div onclick="details(this)" class = "character3">理</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">歹</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">死</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">文</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character2">文</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">斤</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">新</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">气</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">气</div>，
+            </td>
+        </tr>
+
+
+
+        <tr>
+            <td class = "radicals"><div onclick="details(this)" class = "radical">白</div></td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character2">白</div>，
+                <div onclick="details(this)" class = "character3">百</div>，
+                <div onclick="details(this)" class = "character5">的</div>
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">目</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">看</div>，
+                <div onclick="details(this)" class = "character5">着</div>，
+                <div onclick="details(this)" class = "character1">真</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">矢</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">知</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">禾</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">种</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">生</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">生</div>
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">用</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">用</div>
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">田</div>，
+                <div onclick="details(this)" class = "radical">由</div>，
+                <div onclick="details(this)" class = "radical">甲</div>，
+                <div onclick="details(this)" class = "radical">申</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">画</div>
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">本</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">本</div>
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">竹</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character2">竹</div>，
+                <div onclick="details(this)" class = "character3">等</div>，
+                <div onclick="details(this)" class = "character4">第</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">糸</div>，
+                <div onclick="details(this)" class = "radical">糹</div>，
+                <div onclick="details(this)" class = "radical">纟</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">给</div>，
+            </td>
+        </tr>   
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">襾</div>，
+                <div onclick="details(this)" class = "radical">西</div>，
+                <div onclick="details(this)" class = "radical">覀</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">要</div>，
+                <div onclick="details(this)" class = "character1">西</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">肉</div>，
+                <div onclick="details(this)" class = "radical">月</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">肉</div>，
+                <div onclick="details(this)" class = "character2">能</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">自</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">自</div>
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">艸</div>，
+                <div onclick="details(this)" class = "radical">艹</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">花</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">老</div>，
+                <div onclick="details(this)" class = "radical">耂</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">老</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">而</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character2">而</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">羊</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character2">羊</div>，
+                <div onclick="details(this)" class = "character3">美</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">邑</div>，
+                <div onclick="details(this)" class = "radical">阝</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">那</div>，
+                <div onclick="details(this)" class = "character1">都</div>
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">里</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">里</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">言</div>，
+                <div onclick="details(this)" class = "radical">讠</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">说</div>，
+                <div onclick="details(this)" class = "character3">语</div>，
+                <div onclick="details(this)" class = "character3">请</div>，
+                <div onclick="details(this)" class = "character2">读</div>
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">辵</div>，
+                <div onclick="details(this)" class = "radical">辶</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">这</div>，
+                <div onclick="details(this)" class = "character4">道</div>，
+                <div onclick="details(this)" class = "character4">过</div>，
+                <div onclick="details(this)" class = "character2">还</div>，
+                <div onclick="details(this)" class = "character1">边</div>，
+                <div onclick="details(this)" class = "character4">送</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">走</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">走</div>，
+                <div onclick="details(this)" class = "character3">起</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">車</div>，
+                <div onclick="details(this)" class = "radical">车</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">车</div>，
+                <div onclick="details(this)" class = "character1">军</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">見</div>，
+                <div onclick="details(this)" class = "radical">见</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">见</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">長</div>，
+                <div onclick="details(this)" class = "radical">长</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">长</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">門</div>，
+                <div onclick="details(this)" class = "radical">门</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character2">门</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">非</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character1">非</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">雨</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">雨</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">面</div>
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character4">面</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">馬</div>，
+                <div onclick="details(this)" class = "radical">马</div>，
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">马</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">魚</div>，
+                <div onclick="details(this)" class = "radical">鱼</div>，
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character2">鱼</div>，
+            </td>
+        </tr>
+        <tr>
+            <td class = "radicals">
+                <div onclick="details(this)" class = "radical">鳥</div>，
+                <div onclick="details(this)" class = "radical">鸟</div>，
+            </td>
+            <td class = "characters">
+                <div onclick="details(this)" class = "character3">鸟</div>，
+            </td>
+        </tr>
+    </table>
+
+</body>
+

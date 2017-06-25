@@ -1,0 +1,59 @@
+table, th, td {
+    border: 1px solid black;
+    font-size: 30px;
+}
+
+th{
+    text-align: center;
+}
+
+table{
+    width:100%;
+}
+
+.characters{
+    padding-left: 10px;
+}
+
+.character {
+    display: inline-block;
+}
+
+.character1 {
+    display: inline-block;
+    color: red;
+}
+
+.character2 {
+    display: inline-block;
+    color: orange;
+}
+
+.character3 {
+    display: inline-block;
+    color: limegreen;
+}
+
+.character4 {
+    display: inline-block;
+    color: blue;
+}
+
+.character5 {
+    display: inline-block;
+    color: black;
+}
+
+.radicals{
+    text-align: center;
+    width: 300px;
+}
+
+.radical {
+    display: inline-block;
+}
+
+.total {
+    font-size: 25px;
+    display: inline-block;
+}
