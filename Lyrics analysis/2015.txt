@@ -1,0 +1,1551 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+					<head>
+				    <meta charset="UTF-8" />
+				    <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+            				    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+				    <link rel="profile" href="http://gmpg.org/xfn/11" />
+				    <link rel="pingback" href="http://billboardtop100of.com/wp/xmlrpc.php" />
+
+				   <!-- html5shiv for IE8 and less  -->
+				    <!--[if lt IE 9]>
+				      <script src="http://billboardtop100of.com/wp/wp-content/themes/customizr/inc/assets/js/html5.js"></script>
+				    <![endif]-->
+				    <title>2015 - Billboard Top 100</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://billboardtop100of.com/2015-2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="2015 - Billboard Top 100" />
+<meta property="og:description" content="Welcome to BillboardTop100of.com 2015 1 Mark Ronson feat. Bruno Mars Uptown Funk! LYRICS 2 Ed Sheeran Thinking Out Loud LYRICS 3 Wiz Khalifa feat. Charlie Puth See You Again LYRICS 4 Fetty Wap Trap Queen LYRICS 5 Maroon 5 Sugar LYRICS 6 Walk The Moon Shut Up and Dance LYRICS 7 Taylor Swift Blank Space &hellip;" />
+<meta property="og:url" content="http://billboardtop100of.com/2015-2/" />
+<meta property="og:site_name" content="Billboard Top 100" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Welcome to BillboardTop100of.com 2015 1 Mark Ronson feat. Bruno Mars Uptown Funk! LYRICS 2 Ed Sheeran Thinking Out Loud LYRICS 3 Wiz Khalifa feat. Charlie Puth See You Again LYRICS 4 Fetty Wap Trap Queen LYRICS 5 Maroon 5 Sugar LYRICS 6 Walk The Moon Shut Up and Dance LYRICS 7 Taylor Swift Blank Space [&hellip;]" />
+<meta name="twitter:title" content="2015 - Billboard Top 100" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Billboard Top 100 &raquo; Feed" href="http://billboardtop100of.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Billboard Top 100 &raquo; Comments Feed" href="http://billboardtop100of.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/billboardtop100of.com\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='tc-gfonts-css'  href='//fonts.googleapis.com/css?family=Fjalla+One:400|Cantarell:400' type='text/css' media='all' />
+<link rel='stylesheet' id='customizr-common-css'  href='http://billboardtop100of.com/wp/wp-content/themes/customizr/inc/assets/css/tc_common.min.css?ver=3.4.23' type='text/css' media='all' />
+<link rel='stylesheet' id='customizr-skin-css'  href='http://billboardtop100of.com/wp/wp-content/themes/customizr/inc/assets/css/red.min.css?ver=3.4.23' type='text/css' media='all' />
+<style id='customizr-skin-inline-css' type='text/css'>
+        @font-face {
+          font-family: 'FontAwesome';
+          src:url('http://billboardtop100of.com/wp/wp-content/themes/customizr/inc/assets/css/fonts/fonts/fontawesome-webfont.eot');
+          src:url('http://billboardtop100of.com/wp/wp-content/themes/customizr/inc/assets/css/fonts/fonts/fontawesome-webfont.eot?#iefix') format('embedded-opentype'),
+              url('http://billboardtop100of.com/wp/wp-content/themes/customizr/inc/assets/css/fonts/fonts/fontawesome-webfont.woff2') format('woff2'),
+              url('http://billboardtop100of.com/wp/wp-content/themes/customizr/inc/assets/css/fonts/fonts/fontawesome-webfont.woff') format('woff'),
+              url('http://billboardtop100of.com/wp/wp-content/themes/customizr/inc/assets/css/fonts/fonts/fontawesome-webfont.ttf') format('truetype'),
+              url('http://billboardtop100of.com/wp/wp-content/themes/customizr/inc/assets/css/fonts/fonts/fontawesome-webfont.svg#fontawesomeregular') format('svg');
+        }
+        
+
+                .site-title,.site-description,h1,h2,h3,.tc-dropcap {
+                  font-family : 'Fjalla One';
+                  font-weight : 400;
+                }
+
+                body,.navbar .nav>li>a {
+                  font-family : 'Cantarell';
+                  font-weight : 400;
+                }
+
+          body,.navbar .nav>li>a {
+            font-size : 15px;
+            line-height : 20px;
+          }
+table { border-collapse: separate; }
+                         body table { border-collapse: collapse; }
+                        
+.sticky-enabled .tc-shrink-on .site-logo img {
+    					height:30px!important;width:auto!important
+    				}
+
+    				.sticky-enabled .tc-shrink-on .brand .site-title {
+    					font-size:0.6em;opacity:0.8;line-height:1.2em
+    				}
+
+.tc-no-sticky-header .tc-header, .tc-sticky-header .tc-header {
+  					z-index:200
+  				}
+
+#tc-push-footer { display: none; visibility: hidden; }
+         .tc-sticky-footer #tc-push-footer.sticky-footer-enabled { display: block; }
+        
+
+</style>
+<link rel='stylesheet' id='customizr-style-css'  href='http://billboardtop100of.com/wp/wp-content/themes/customizr-child-theme/style.css?ver=3.4.23' type='text/css' media='all' />
+<link rel='stylesheet' id='fancyboxcss-css'  href='http://billboardtop100of.com/wp/wp-content/themes/customizr/inc/assets/js/fancybox/jquery.fancybox-1.3.4.min.css?ver=4.7' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v5.5.2 - Universal enabled - https://www.monsterinsights.com/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-37322944-2', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');
+
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type='text/javascript' src='http://billboardtop100of.com/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://billboardtop100of.com/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://billboardtop100of.com/wp/wp-content/themes/customizr/inc/assets/js/fancybox/jquery.fancybox-1.3.4.min.js?ver=3.4.23'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var TCParams = {"_disabled":[],"FancyBoxState":"1","FancyBoxAutoscale":"1","SliderName":"","SliderDelay":"","SliderHover":"1","centerSliderImg":"1","SmoothScroll":{"Enabled":true,"Options":{"touchpadSupport":false}},"anchorSmoothScroll":"linear","anchorSmoothScrollExclude":{"simple":["[class*=edd]",".tc-carousel-control",".carousel-control","[data-toggle=\"modal\"]","[data-toggle=\"dropdown\"]","[data-toggle=\"tooltip\"]","[data-toggle=\"popover\"]","[data-toggle=\"collapse\"]","[data-toggle=\"tab\"]","[class*=upme]","[class*=um-]"],"deep":{"classes":[],"ids":[]}},"ReorderBlocks":"1","centerAllImg":"1","HasComments":"","LeftSidebarClass":".span3.left.tc-sidebar","RightSidebarClass":".span3.right.tc-sidebar","LoadModernizr":"1","stickyCustomOffset":{"_initial":0,"_scrolling":0,"options":{"_static":true,"_element":""}},"stickyHeader":"1","dropdowntoViewport":"","timerOnScrollAllBrowsers":"1","extLinksStyle":"","extLinksTargetExt":"1","extLinksSkipSelectors":{"classes":["btn","button"],"ids":[]},"dropcapEnabled":"","dropcapWhere":{"post":"","page":""},"dropcapMinWords":"50","dropcapSkipSelectors":{"tags":["IMG","IFRAME","H1","H2","H3","H4","H5","H6","BLOCKQUOTE","UL","OL"],"classes":["btn"],"id":[]},"imgSmartLoadEnabled":"","imgSmartLoadOpts":{"parentSelectors":[".article-container",".__before_main_wrapper",".widget-front"],"opts":{"excludeImg":[".tc-holder-img"]}},"goldenRatio":"1.618","gridGoldenRatioLimit":"350","isSecondMenuEnabled":"","secondMenuRespSet":"in-sn-before"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://billboardtop100of.com/wp/wp-content/themes/customizr/inc/assets/js/tc-scripts.min.js?ver=3.4.23'></script>
+<link rel='https://api.w.org/' href='http://billboardtop100of.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://billboardtop100of.com/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://billboardtop100of.com/wp/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7" />
+<link rel='shortlink' href='http://billboardtop100of.com/?p=391' />
+<link rel="alternate" type="application/json+oembed" href="http://billboardtop100of.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbillboardtop100of.com%2F2015-2%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://billboardtop100of.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbillboardtop100of.com%2F2015-2%2F&#038;format=xml" />
+      <script type="text/javascript" id="do-parallax-sliders">
+        jQuery( function($){
+          $( '.czr-parallax-slider' ).czrParallax( { parallaxRatio : 0.55 } );
+        });
+      </script>
+    <link rel="icon" href="http://billboardtop100of.com/wp/wp-content/uploads/2016/02/cropped-icon-512x512-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://billboardtop100of.com/wp/wp-content/uploads/2016/02/cropped-icon-512x512-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://billboardtop100of.com/wp/wp-content/uploads/2016/02/cropped-icon-512x512-180x180.png" />
+<meta name="msapplication-TileImage" content="http://billboardtop100of.com/wp/wp-content/uploads/2016/02/cropped-icon-512x512-270x270.png" />
+				</head>
+				
+	<body class="page-template-default page page-id-391 tc-fade-hover-links tc-r-sidebar tc-sticky-header sticky-disabled tc-solid-color-on-scroll skin-red tc-regular-menu tc-sticky-footer" itemscope itemtype="http://schema.org/WebPage">
+
+    
+    <div id="tc-page-wrap" class="">
+
+  		
+  	   	<header class="tc-header clearfix row-fluid tc-tagline-off tc-title-logo-on  tc-shrink-on tc-menu-on logo-centered tc-second-menu-in-sn-before-when-mobile" role="banner">
+  			      <div class="brand span3 pull-left ">
+
+        <h1><a class="site-title" href="http://billboardtop100of.com/" title="Billboard Top 100 | Billboard Top 100">Billboard Top 100</a></h1>
+      </div> <!-- brand span3 pull-left -->
+            	<div class="navbar-wrapper clearfix span9 tc-submenu-fade tc-submenu-move tc-open-on-click pull-menu-right">
+        	<div class="navbar resp">
+          		<div class="navbar-inner" role="navigation">
+            		<div class="row-fluid">
+              		<div class="social-block span5" ><a class="social-icon icon-email" href="mailto:thealdgroup@gmail.com" title="E-mail"  ></a><a class="social-icon icon-twitter" href="http://twitter.com/musicmonsta13" title="Follow me on Twitter" target=_blank ></a><a class="social-icon icon-instagram" href="https://instagram.com/billboardtop100hits" title="Follow me on Instagram" target=_blank ></a></div><div class="nav-collapse collapse"><div class="menu-red-menu-container"><ul id="menu-red-menu-2" class="nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-350"><a href="http://billboardtop100of.com/">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children dropdown menu-item-488"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="http://billboardtop100of.com">Features <strong class="caret"></strong></a>
+<ul class="dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-487"><a href="http://billboardtop100of.com/history-of-billboard-magazine/">History of Billboard Magazine</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-484"><a href="http://billboardtop100of.com/billboard-top-100-year-end-chart/">Billboard Top 100 Year End Chart</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-485"><a href="http://billboardtop100of.com/todays-music-made-with-yesterdays-hits/">Today&#8217;s Music made with Yesterday&#8217;s Hits</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children dropdown menu-item-16"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="http://billboardtop100of.com/2010-2/">2010 <strong class="caret"></strong></a>
+<ul class="dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://billboardtop100of.com/2011-2/">2011</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://billboardtop100of.com/2012-2/">2012</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="http://billboardtop100of.com/2013-2/">2013</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a href="http://billboardtop100of.com/2014-2/">2014</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-391 current_page_item menu-item-393"><a href="http://billboardtop100of.com/2015-2/">2015</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-77"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="http://billboardtop100of.com/2000-2/">2000 <strong class="caret"></strong></a>
+<ul class="dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="http://billboardtop100of.com/2001-2/">2001</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://billboardtop100of.com/2002-2/">2002</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="http://billboardtop100of.com/2003-2/">2003</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="http://billboardtop100of.com/2004-2/">2004</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="http://billboardtop100of.com/2005-2/">2005</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="http://billboardtop100of.com/2006-2/">2006</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="http://billboardtop100of.com/2007-2/">2007</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="http://billboardtop100of.com/2008-2/">2008</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="http://billboardtop100of.com/2009-2/">2009</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-326"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="http://billboardtop100of.com/1990-2/">1990 <strong class="caret"></strong></a>
+<ul class="dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-327"><a href="http://billboardtop100of.com/1991-2/">1991</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-328"><a href="http://billboardtop100of.com/1992-2/">1992</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-329"><a href="http://billboardtop100of.com/1993-2/">1993</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-330"><a href="http://billboardtop100of.com/1994-2/">1994</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-331"><a href="http://billboardtop100of.com/1995-2/">1995</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="http://billboardtop100of.com/1996-2/">1996</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="http://billboardtop100of.com/1997-2/">1997</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-334"><a href="http://billboardtop100of.com/1998-2/">1998</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-335"><a href="http://billboardtop100of.com/1999-2/">1999</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-316"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="http://billboardtop100of.com/1980-2/">1980 <strong class="caret"></strong></a>
+<ul class="dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-317"><a href="http://billboardtop100of.com/1981-2/">1981</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-318"><a href="http://billboardtop100of.com/1982-2/">1982</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-319"><a href="http://billboardtop100of.com/1983-2/">1983</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="http://billboardtop100of.com/1984-2/">1984</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="http://billboardtop100of.com/1985-2/">1985</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-322"><a href="http://billboardtop100of.com/1986-2/">1986</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-323"><a href="http://billboardtop100of.com/1987-2/">1987</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="http://billboardtop100of.com/1988-2/">1988</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-325"><a href="http://billboardtop100of.com/1989-2/">1989</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-306"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="http://billboardtop100of.com/1970-2/">1970 <strong class="caret"></strong></a>
+<ul class="dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307"><a href="http://billboardtop100of.com/1971-2/">1971</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-308"><a href="http://billboardtop100of.com/1972-2/">1972</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-309"><a href="http://billboardtop100of.com/1973-2/">1973</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-310"><a href="http://billboardtop100of.com/1974-2/">1974</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311"><a href="http://billboardtop100of.com/1975-2/">1975</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-312"><a href="http://billboardtop100of.com/1976-2/">1976</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-313"><a href="http://billboardtop100of.com/1977-2/">1977</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-314"><a href="http://billboardtop100of.com/1978-2/">1978</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-315"><a href="http://billboardtop100of.com/1979-2/">1979</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-296"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="http://billboardtop100of.com/1960-2/">1960 <strong class="caret"></strong></a>
+<ul class="dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-297"><a href="http://billboardtop100of.com/1961-2/">1961</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298"><a href="http://billboardtop100of.com/1962-2/">1962</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299"><a href="http://billboardtop100of.com/1963-2/">1963</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-300"><a href="http://billboardtop100of.com/1964-2/">1964</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-301"><a href="http://billboardtop100of.com/1965-2/">1965</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-302"><a href="http://billboardtop100of.com/1966-2/">1966</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="http://billboardtop100of.com/1967-2/">1967</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-304"><a href="http://billboardtop100of.com/1968-2/">1968</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-305"><a href="http://billboardtop100of.com/1969-2/">1969</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-286"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="http://billboardtop100of.com/1950-2/">1950 <strong class="caret"></strong></a>
+<ul class="dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287"><a href="http://billboardtop100of.com/1951-2/">1951</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288"><a href="http://billboardtop100of.com/1952-2/">1952</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-289"><a href="http://billboardtop100of.com/1953-2/">1953</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-290"><a href="http://billboardtop100of.com/1954-2/">1954</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-291"><a href="http://billboardtop100of.com/1955-2/">1955</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-292"><a href="http://billboardtop100of.com/1956-2/">1956</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-293"><a href="http://billboardtop100of.com/1957-2/">1957</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-294"><a href="http://billboardtop100of.com/1958-2/">1958</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-295"><a href="http://billboardtop100of.com/1959-2/">1959</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-341"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="http://billboardtop100of.com/336-2/">1940 <strong class="caret"></strong></a>
+<ul class="dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-277"><a href="http://billboardtop100of.com/1941-2/">1941</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-278"><a href="http://billboardtop100of.com/1942-2/">1942</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="http://billboardtop100of.com/1943-2/">1943</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a href="http://billboardtop100of.com/1944-2/">1944</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-281"><a href="http://billboardtop100of.com/1945-2/">1945</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="http://billboardtop100of.com/1946-2/">1946</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-283"><a href="http://billboardtop100of.com/1947-2/">1947</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-284"><a href="http://billboardtop100of.com/1948-2/">1948</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-285"><a href="http://billboardtop100of.com/1949-2/">1949</a></li>
+</ul>
+</li>
+</ul></div></div><div class="btn-toggle-nav pull-right"><button type="button" class="btn menu-btn" data-toggle="collapse" data-target=".nav-collapse" title="Open the menu"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span> </button></div>          			</div><!-- /.row-fluid -->
+          		</div><!-- /.navbar-inner -->
+        	</div><!-- /.navbar resp -->
+      	</div><!-- /.navbar-wrapper -->
+    	  		</header>
+  		<div id="tc-reset-margin-top" class="container-fluid" style="margin-top:103px"></div><div id="main-wrapper" class="container">
+
+    
+    <div class="container" role="main">
+        <div class="row column-content-wrapper">
+
+            
+                <div id="content" class="span9 article-container tc-gallery-style">
+
+                    
+                        
+                                                                                    
+                                                                    <article id="page-391" class="row-fluid post-391 page type-page status-publish hentry">
+                                                <header class="entry-header">
+          <h1 class="entry-title ">2015</h1><hr class="featurette-divider __before_content">        </header>
+        
+        <div class="entry-content">
+          <!--Ad Injection:top-->
+<div style=''><center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Blog Banner for iPhone -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:50px"
+     data-ad-client="ca-pub-4129171827898399"
+     data-ad-slot="4188764683"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></center></div><p style="text-align: left;" align="center">Welcome to BillboardTop100of.com</p>
+<p style="text-align: left;" align="center"><span style="font-size: 300%;">2015</span></p>
+<table class="sortable alternate songtable" style="height: 10235px;" width="548">
+<tbody>
+<tr>
+<td id="pos1">
+<h6>1</h6>
+</td>
+<td id="rec6350" data-sorttable-customkey="Mark Ronson feat. Bruno Mars">
+<h6>Mark Ronson feat. Bruno Mars</h6>
+</td>
+<td>
+<h6>Uptown Funk!</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441621-mark_ronson_feat_bruno_mars_uptown_funk_you_up.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441621-mark_ronson_feat_bruno_mars_uptown_funk_you_up.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos2">
+<h6>2</h6>
+</td>
+<td id="rec6351" data-sorttable-customkey="Ed Sheeran">
+<h6>Ed Sheeran</h6>
+</td>
+<td>
+<h6>Thinking Out Loud</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441623-ed_sheeran_thinking_out_loud.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441623-ed_sheeran_thinking_out_loud.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos3">
+<h6>3</h6>
+</td>
+<td id="rec6352" data-sorttable-customkey="Wiz Khalifa feat. Charlie Puth">
+<h6>Wiz Khalifa feat. Charlie Puth</h6>
+</td>
+<td>
+<h6>See You Again</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441625-wiz_khalifa_feat_charlie_puth_see_you_again.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441625-wiz_khalifa_feat_charlie_puth_see_you_again.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos4">
+<h6>4</h6>
+</td>
+<td id="rec6353" data-sorttable-customkey="Fetty Wap">
+<h6>Fetty Wap</h6>
+</td>
+<td>
+<h6>Trap Queen</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441626-fetty_wap_trap_queen.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441626-fetty_wap_trap_queen.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos5">
+<h6>5</h6>
+</td>
+<td id="rec6354" data-sorttable-customkey="Maroon 5">
+<h6>Maroon 5</h6>
+</td>
+<td>
+<h6>Sugar</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441628-maroon_5_sugar.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441628-maroon_5_sugar.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos6">
+<h6>6</h6>
+</td>
+<td id="rec6355" data-sorttable-customkey="Walk The Moon">
+<h6>Walk The Moon</h6>
+</td>
+<td>
+<h6>Shut Up and Dance</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441630-walk_the_moon_shut_up_and_dance.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441630-walk_the_moon_shut_up_and_dance.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos7">
+<h6>7</h6>
+</td>
+<td id="rec6356" data-sorttable-customkey="Taylor Swift">
+<h6>Taylor Swift</h6>
+</td>
+<td>
+<h6>Blank Space</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441632-taylor_swift_blank_space.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441632-taylor_swift_blank_space.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos8">
+<h6>8</h6>
+</td>
+<td id="rec6357" data-sorttable-customkey="Silento">
+<h6>Silento</h6>
+</td>
+<td>
+<h6>Watch Me</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441633-silento_watch_me.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441633-silento_watch_me.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos9">
+<h6>9</h6>
+</td>
+<td id="rec6358" data-sorttable-customkey="Weeknd">
+<h6>Weeknd</h6>
+</td>
+<td>
+<h6>Earned It (Fifty Shades Of Grey)</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441635-the_weeknd_earned_it__fifty_shades_of_grey_.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441635-the_weeknd_earned_it__fifty_shades_of_grey_.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos10">
+<h6>10</h6>
+</td>
+<td id="rec6359" data-sorttable-customkey="Weeknd">
+<h6>Weeknd</h6>
+</td>
+<td>
+<h6>The Hills</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441637-the_weeknd_the_hills.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441637-the_weeknd_the_hills.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos11">
+<h6>11</h6>
+</td>
+<td id="rec6360" data-sorttable-customkey="OMI">
+<h6>OMI</h6>
+</td>
+<td>
+<h6>Cheerleader (Felix Jaehn Remix)</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441639-omi_cheerleader__felix_jaehn_remix_.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441639-omi_cheerleader__felix_jaehn_remix_.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos12">
+<h6>12</h6>
+</td>
+<td id="rec6361" data-sorttable-customkey="Weeknd">
+<h6>Weeknd</h6>
+</td>
+<td>
+<h6>Can&#8217;t Feel My Face</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441641-the_weeknd_can_t_feel_my_face.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441641-the_weeknd_can_t_feel_my_face.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos13">
+<h6>13</h6>
+</td>
+<td id="rec6362" data-sorttable-customkey="Ellie Goulding">
+<h6>Ellie Goulding</h6>
+</td>
+<td>
+<h6>Love Me Like You Do</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441643-ellie_goulding_love_me_like_you_do.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441643-ellie_goulding_love_me_like_you_do.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos14">
+<h6>14</h6>
+</td>
+<td id="rec6363" data-sorttable-customkey="Hozier">
+<h6>Hozier</h6>
+</td>
+<td>
+<h6>Take Me To Church</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441645-hozier_take_me_to_church.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441645-hozier_take_me_to_church.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos15">
+<h6>15</h6>
+</td>
+<td id="rec6364" data-sorttable-customkey="Taylor Swift feat. Kendrick Lamar">
+<h6>Taylor Swift feat. Kendrick Lamar</h6>
+</td>
+<td>
+<h6>Bad Blood</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441647-taylor_swift_bad_blood.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441647-taylor_swift_bad_blood.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos16">
+<h6>16</h6>
+</td>
+<td id="rec6365" data-sorttable-customkey="Major Lazer and DJ Snake feat. M0">
+<h6>Major Lazer and DJ Snake feat. M0</h6>
+</td>
+<td>
+<h6>Lean On</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441650-major_lazer_and_dj_snake_lean_on.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441650-major_lazer_and_dj_snake_lean_on.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos17">
+<h6>17</h6>
+</td>
+<td id="rec6366" data-sorttable-customkey="Jason Derulo">
+<h6>Jason Derulo</h6>
+</td>
+<td>
+<h6>Want To Want Me</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441648-jason_derulo_want_to_want_me.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441648-jason_derulo_want_to_want_me.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos18">
+<h6>18</h6>
+</td>
+<td id="rec6367" data-sorttable-customkey="Taylor Swift">
+<h6>Taylor Swift</h6>
+</td>
+<td>
+<h6>Shake It Off</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441652-taylor_swift_shake_it_off.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441652-taylor_swift_shake_it_off.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos19">
+<h6>19</h6>
+</td>
+<td id="rec6368" data-sorttable-customkey="Skrillex and Diplo With Justin Bieber">
+<h6>Skrillex and Diplo With Justin Bieber</h6>
+</td>
+<td>
+<h6>Where Are U Now</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441654-skrillex_and_diplo_featuring_justin_bieber_where_are_you_now.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441654-skrillex_and_diplo_featuring_justin_bieber_where_are_you_now.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos20">
+<h6>20</h6>
+</td>
+<td id="rec6369" data-sorttable-customkey="Rachel Platten">
+<h6>Rachel Platten</h6>
+</td>
+<td>
+<h6>Fight Song</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441656-rachel_platten_fight_song.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441656-rachel_platten_fight_song.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos21">
+<h6>21</h6>
+</td>
+<td id="rec6370" data-sorttable-customkey="Fetty Wap feat. Remy Boyz">
+<h6>Fetty Wap feat. Remy Boyz</h6>
+</td>
+<td>
+<h6>679</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441658-fetty_wap_feat_remy_boyz_679.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441658-fetty_wap_feat_remy_boyz_679.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos22">
+<h6>22</h6>
+</td>
+<td id="rec6371" data-sorttable-customkey="Meghan Trainor">
+<h6>Meghan Trainor</h6>
+</td>
+<td>
+<h6>Lips Are Movin</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441660-meghan_trainor_lips_are_movin.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441660-meghan_trainor_lips_are_movin.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos23">
+<h6>23</h6>
+</td>
+<td id="rec6372" data-sorttable-customkey="Fifth Harmony feat. Kid Ink">
+<h6>Fifth Harmony feat. Kid Ink</h6>
+</td>
+<td>
+<h6>Worth It</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441662-fifth_harmony_worth_it.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441662-fifth_harmony_worth_it.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos24">
+<h6>24</h6>
+</td>
+<td id="rec6373" data-sorttable-customkey="Omarion feat. Chris Brown and Jhene Aiko">
+<h6>Omarion feat. Chris Brown and Jhene Aiko</h6>
+</td>
+<td>
+<h6>Post To Be</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441664-omarion_feat_chris_brown_and_jhene_aiko_post_to_be.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441664-omarion_feat_chris_brown_and_jhene_aiko_post_to_be.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos25">
+<h6>25</h6>
+</td>
+<td id="rec6374" data-sorttable-customkey="Andy Grammer">
+<h6>Andy Grammer</h6>
+</td>
+<td>
+<h6>Honey, I&#8217;m Good.</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441666-andy_grammer_honey_i_m_good.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441666-andy_grammer_honey_i_m_good.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos26">
+<h6>26</h6>
+</td>
+<td id="rec6375" data-sorttable-customkey="Sam Smith">
+<h6>Sam Smith</h6>
+</td>
+<td>
+<h6>I&#8217;m Not The Only</h6>
+<h6>One</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441670-sam_smith_i_m_not_the_only_one.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441670-sam_smith_i_m_not_the_only_one.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos27">
+<h6>27</h6>
+</td>
+<td id="rec6376" data-sorttable-customkey="Selena Gomez feat. A$AP Rocky">
+<h6>Selena Gomez feat. A$AP Rocky</h6>
+</td>
+<td>
+<h6>Good For You</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441672-selena_gomez_feat_a_ap_rocky_good_for_you.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441672-selena_gomez_feat_a_ap_rocky_good_for_you.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos28">
+<h6>28</h6>
+</td>
+<td id="rec6377" data-sorttable-customkey="Meghan Trainor">
+<h6>Meghan Trainor</h6>
+</td>
+<td>
+<h6>All About That Bass</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441674-meghan_trainor_all_about_the_bass.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441674-meghan_trainor_all_about_the_bass.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos29">
+<h6>29</h6>
+</td>
+<td id="rec6378" data-sorttable-customkey="Taylor Swift">
+<h6>Taylor Swift</h6>
+</td>
+<td>
+<h6>Style</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441676-taylor_swift_style.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441676-taylor_swift_style.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos30">
+<h6>30</h6>
+</td>
+<td id="rec6379" data-sorttable-customkey="Drake">
+<h6>Drake</h6>
+</td>
+<td>
+<h6>Hotline Bling</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441678-drake_hotline_bling.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441678-drake_hotline_bling.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos31">
+<h6>31</h6>
+</td>
+<td id="rec6380" data-sorttable-customkey="David Guetta feat. Nicki Minaj, Bebe Rexha and Afrojack">
+<h6>David Guetta feat. Nicki Minaj, Bebe Rexha and Afrojack</h6>
+</td>
+<td>
+<h6>Hey Mama</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441680-david_guetta_feat_nicki_minaj_bebe_rexha_and_afrojack_hey_mama.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441680-david_guetta_feat_nicki_minaj_bebe_rexha_and_afrojack_hey_mama.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos32">
+<h6>32</h6>
+</td>
+<td id="rec6381" data-sorttable-customkey="Flo Rida feat. Sage The Gemini and Lookas">
+<h6>Flo Rida feat. Sage The Gemini and Lookas</h6>
+</td>
+<td>
+<h6>G.D.F.R.</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441682-flo_rida_gdfr.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441682-flo_rida_gdfr.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos33">
+<h6>33</h6>
+</td>
+<td id="rec6382" data-sorttable-customkey="Justin Bieber">
+<h6>Justin Bieber</h6>
+</td>
+<td>
+<h6>What Do You Mean?</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441684-justin_bieber_what_do_you_mean_.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441684-justin_bieber_what_do_you_mean_.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos34">
+<h6>34</h6>
+</td>
+<td id="rec6383" data-sorttable-customkey="Ed Sheeran">
+<h6>Ed Sheeran</h6>
+</td>
+<td>
+<h6>Photograph</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441686-ed_sheeran_photograph.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441686-ed_sheeran_photograph.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos35">
+<h6>35</h6>
+</td>
+<td id="rec6384" data-sorttable-customkey="Adele">
+<h6>Adele</h6>
+</td>
+<td>
+<h6>Hello</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441688-adele_hello.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441688-adele_hello.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos36">
+<h6>36</h6>
+</td>
+<td id="rec6385" data-sorttable-customkey="Shawn Mendes">
+<h6>Shawn Mendes</h6>
+</td>
+<td>
+<h6>Stitches</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441690-shawn_mendes_stitches.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441690-shawn_mendes_stitches.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos37">
+<h6>37</h6>
+</td>
+<td id="rec6386" data-sorttable-customkey="Tove Lo">
+<h6>Tove Lo</h6>
+</td>
+<td>
+<h6>Talking Body</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441692-tove_lo_talking_body.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441692-tove_lo_talking_body.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos38">
+<h6>38</h6>
+</td>
+<td id="rec6387" data-sorttable-customkey="Nick Jonas">
+<h6>Nick Jonas</h6>
+</td>
+<td>
+<h6>Jealous</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441694-nick_jonas_jealous.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441694-nick_jonas_jealous.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos39">
+<h6>39</h6>
+</td>
+<td id="rec6388" data-sorttable-customkey="Pitbull and Ne-Yo">
+<h6>Pitbull and Ne-Yo</h6>
+</td>
+<td>
+<h6>Time Of Our Lives</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441696-pitbull_time_of_our_lives.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441696-pitbull_time_of_our_lives.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos40">
+<h6>40</h6>
+</td>
+<td id="rec6389" data-sorttable-customkey="R. City feat. Adam Levine">
+<h6>R. City feat. Adam Levine</h6>
+</td>
+<td>
+<h6>Locked Away</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441698-rcity_feat_adam_levine_locked_away.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441698-rcity_feat_adam_levine_locked_away.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos41">
+<h6>41</h6>
+</td>
+<td id="rec6390" data-sorttable-customkey="Natalie La Rose feat. Jeremih">
+<h6>Natalie La Rose feat. Jeremih</h6>
+</td>
+<td>
+<h6>Somebody</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441700-natalie_la_rose_feat_jeremih_somebody.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441700-natalie_la_rose_feat_jeremih_somebody.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos42">
+<h6>42</h6>
+</td>
+<td id="rec6391" data-sorttable-customkey="Rihanna, Kanye West, and Paul McCartney">
+<h6>Rihanna, Kanye West, and Paul McCartney</h6>
+</td>
+<td>
+<h6>FourFiveSeconds</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441732-rihanna_kanye_west___paul_mccartney_fourfiveseconds.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441732-rihanna_kanye_west___paul_mccartney_fourfiveseconds.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos43">
+<h6>43</h6>
+</td>
+<td id="rec6392" data-sorttable-customkey="Fall Out Boy">
+<h6>Fall Out Boy</h6>
+</td>
+<td>
+<h6>Centuries</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441733-fall_out_boy_centuries.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441733-fall_out_boy_centuries.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos44">
+<h6>44</h6>
+</td>
+<td id="rec6393" data-sorttable-customkey="Fetty Wap feat. Monty">
+<h6>Fetty Wap feat. Monty</h6>
+</td>
+<td>
+<h6>My Way</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441734-fetty_wap_my_way.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441734-fetty_wap_my_way.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos45">
+<h6>45</h6>
+</td>
+<td id="rec6394" data-sorttable-customkey="Sam Hunt">
+<h6>Sam Hunt</h6>
+</td>
+<td>
+<h6>Take Your Time</h6>
+<p><strong>LYRICS</strong></td>
+</tr>
+<tr>
+<td id="pos46">
+<h6>46</h6>
+</td>
+<td id="rec6395" data-sorttable-customkey="Maroon 5">
+<h6>Maroon 5</h6>
+</td>
+<td>
+<h6>Animals</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441735-maroon_5_animals.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441735-maroon_5_animals.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos47">
+<h6>47</h6>
+</td>
+<td id="rec6396" data-sorttable-customkey="Big Sean feat. E-40">
+<h6>Big Sean feat. E-40</h6>
+</td>
+<td>
+<h6>I Don&#8217;t F**k With You</h6>
+<p><strong>LYRICS</strong></td>
+</tr>
+<tr>
+<td id="pos48">
+<h6>48</h6>
+</td>
+<td id="rec6397" data-sorttable-customkey="Rihanna">
+<h6>Rihanna</h6>
+</td>
+<td>
+<h6>B**** Better Have My Money</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441736-rihanna_bitch_better_have_mu_money.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441736-rihanna_bitch_better_have_mu_money.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos49">
+<h6>49</h6>
+</td>
+<td id="rec6398" data-sorttable-customkey="Rich Homie Quan">
+<h6>Rich Homie Quan</h6>
+</td>
+<td>
+<h6>Flex (Ooh Ooh Ooh)</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441737-rich_homie_quan_flex__ooh_ooh_ooh_.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441737-rich_homie_quan_flex__ooh_ooh_ooh_.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos50">
+<h6>50</h6>
+</td>
+<td id="rec6399" data-sorttable-customkey="T-Wayne">
+<h6>T-Wayne</h6>
+</td>
+<td>
+<h6>Nasty Freestyle</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441738-t_wayne_nasty_freestyle.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441738-t_wayne_nasty_freestyle.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos51">
+<h6>51</h6>
+</td>
+<td id="rec6400" data-sorttable-customkey="Nicki Minaj feat. Drake, Lil Wayne and Chris Brown">
+<h6>Nicki Minaj feat. Drake, Lil Wayne and Chris Brown</h6>
+</td>
+<td>
+<h6>Only</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441739-nicki_minaj_only.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441739-nicki_minaj_only.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos52">
+<h6>52</h6>
+</td>
+<td id="rec6401" data-sorttable-customkey="Sia">
+<h6>Sia</h6>
+</td>
+<td>
+<h6>Elastic Heart</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441740-sia_elastic_heart.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441740-sia_elastic_heart.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos53">
+<h6>53</h6>
+</td>
+<td id="rec6402" data-sorttable-customkey="Demi Lovato">
+<h6>Demi Lovato</h6>
+</td>
+<td>
+<h6>Cool For The Summer</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441740-sia_elastic_heart.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441740-sia_elastic_heart.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos54">
+<h6>54</h6>
+</td>
+<td id="rec6403" data-sorttable-customkey="X Ambassadors">
+<h6>X Ambassadors</h6>
+</td>
+<td>
+<h6>Renegades</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441743-x_ambassadors_renegades.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441743-x_ambassadors_renegades.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos55">
+<h6>55</h6>
+</td>
+<td id="rec6404" data-sorttable-customkey="Usher feat. Juicy J">
+<h6>Usher feat. Juicy J</h6>
+</td>
+<td>
+<h6>I Don&#8217;t Mind</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441744-usher_i_don_t_mind.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441744-usher_i_don_t_mind.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos56">
+<h6>56</h6>
+</td>
+<td id="rec6405" data-sorttable-customkey="Ariana Grande and The Weeknd">
+<h6>Ariana Grande and The Weeknd</h6>
+</td>
+<td>
+<h6>Love Me Harder</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441745-ariana_grande_love_me_harder.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441745-ariana_grande_love_me_harder.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos57">
+<h6>57</h6>
+</td>
+<td id="rec6406" data-sorttable-customkey="Taylor Swift">
+<h6>Taylor Swift</h6>
+</td>
+<td>
+<h6>Wildest Dreams</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441746-taylor_swift_wildest_dreams.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441746-taylor_swift_wildest_dreams.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos58">
+<h6>58</h6>
+</td>
+<td id="rec6407" data-sorttable-customkey="Sam Smith">
+<h6>Sam Smith</h6>
+</td>
+<td>
+<h6>Stay With Me</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441711-sam_smith_stay_with_me.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441711-sam_smith_stay_with_me.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos59">
+<h6>59</h6>
+</td>
+<td id="rec6408" data-sorttable-customkey="DJ Snake and Alunageorge">
+<h6>DJ Snake and Alunageorge</h6>
+</td>
+<td>
+<h6>You Know You Like It</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441748-dj_snake_you_know_you_like_it.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441748-dj_snake_you_know_you_like_it.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos60">
+<h6>60</h6>
+</td>
+<td id="rec6409" data-sorttable-customkey="Fall Out Boy">
+<h6>Fall Out Boy</h6>
+</td>
+<td>
+<h6>Uma Thurman</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441749-fall_out_boy_uma_thurman.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441749-fall_out_boy_uma_thurman.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos61">
+<h6>61</h6>
+</td>
+<td id="rec6410" data-sorttable-customkey="Beyonce">
+<h6>Beyonce</h6>
+</td>
+<td>
+<h6>7/11</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441751-beyonce_knowles_7_11.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441751-beyonce_knowles_7_11.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos62">
+<h6>62</h6>
+</td>
+<td id="rec6411" data-sorttable-customkey="Selena Gomez">
+<h6>Selena Gomez</h6>
+</td>
+<td>
+<h6>The Heart Wants What It Wants</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441753-selena_gomez_the_heart_wants_what_it_wants.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441753-selena_gomez_the_heart_wants_what_it_wants.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos63">
+<h6>63</h6>
+</td>
+<td id="rec6412" data-sorttable-customkey="Little Big Town">
+<h6>Little Big Town</h6>
+</td>
+<td>
+<h6>Girl Crush</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441754-little_big_town_girl_crush.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441754-little_big_town_girl_crush.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos64">
+<h6>64</h6>
+</td>
+<td id="rec6413" data-sorttable-customkey="Trey Songz">
+<h6>Trey Songz</h6>
+</td>
+<td>
+<h6>Slow Motion</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441755-trey_songz_slow_motion.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441755-trey_songz_slow_motion.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos65">
+<h6>65</h6>
+</td>
+<td id="rec6414" data-sorttable-customkey="One Direction">
+<h6>One Direction</h6>
+</td>
+<td>
+<h6>Drag Me Down</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441756-one_direction_drag_me_down.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441756-one_direction_drag_me_down.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos66">
+<h6>66</h6>
+</td>
+<td id="rec6415" data-sorttable-customkey="Nicki Minaj feat. Drake and Lil Wayne">
+<h6>Nicki Minaj feat. Drake and Lil Wayne</h6>
+</td>
+<td>
+<h6>Truffle Butter</h6>
+<p><strong>LYRICS</strong></td>
+</tr>
+<tr>
+<td id="pos67">
+<h6>67</h6>
+</td>
+<td id="rec6416" data-sorttable-customkey="Ariana Grande">
+<h6>Ariana Grande</h6>
+</td>
+<td>
+<h6>One Last Time</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441758-ariana_grande_one_last_time.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441758-ariana_grande_one_last_time.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos68">
+<h6>68</h6>
+</td>
+<td id="rec6417" data-sorttable-customkey="Nick Jonas">
+<h6>Nick Jonas</h6>
+</td>
+<td>
+<h6>Chains</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441759-nick_jonas_chains.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441759-nick_jonas_chains.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos69">
+<h6>69</h6>
+</td>
+<td id="rec6418" data-sorttable-customkey="Meek Mill feat. Chris Brown and Nicki Minaj">
+<h6>Meek Mill feat. Chris Brown and Nicki Minaj</h6>
+</td>
+<td>
+<h6>All Eyes On You</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441760-meek_mill_all_eyes_on_you.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441760-meek_mill_all_eyes_on_you.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos70">
+<h6>70</h6>
+</td>
+<td id="rec6419" data-sorttable-customkey="Rae Sremmurd">
+<h6>Rae Sremmurd</h6>
+</td>
+<td>
+<h6>No Type</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441761-rae_sremmurd_no_type.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441761-rae_sremmurd_no_type.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos71">
+<h6>71</h6>
+</td>
+<td id="rec6420" data-sorttable-customkey="Vance Joy">
+<h6>Vance Joy</h6>
+</td>
+<td>
+<h6>Riptide</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441762-vance_joy_riptide.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441762-vance_joy_riptide.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos72">
+<h6>72</h6>
+</td>
+<td id="rec6421" data-sorttable-customkey="Jidenna feat. Roman GianArthur">
+<h6>Jidenna feat. Roman GianArthur</h6>
+</td>
+<td>
+<h6>Classic Man</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441763-jidenna_classic_man.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441763-jidenna_classic_man.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos73">
+<h6>73</h6>
+</td>
+<td id="rec6422" data-sorttable-customkey="Elle King">
+<h6>Elle King</h6>
+</td>
+<td>
+<h6>Ex&#8217;s and Oh&#8217;s</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441764-elle_king_ex_s___oh_s.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441764-elle_king_ex_s___oh_s.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos74">
+<h6>74</h6>
+</td>
+<td id="rec6423" data-sorttable-customkey="Meghan Trainor">
+<h6>Meghan Trainor</h6>
+</td>
+<td>
+<h6>Dear Future Husband</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441765-meghan_trainor_dear_future_husband.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441765-meghan_trainor_dear_future_husband.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos75">
+<h6>75</h6>
+</td>
+<td id="rec6424" data-sorttable-customkey="Charlie Puth feat. Meghan Trainor">
+<h6>Charlie Puth feat. Meghan Trainor</h6>
+</td>
+<td>
+<h6>Marvin Gaye</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441766-charlie_puth_marvin_gaye.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441766-charlie_puth_marvin_gaye.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos76">
+<h6>76</h6>
+</td>
+<td id="rec6425" data-sorttable-customkey="Meghan Trainor feat. John Legend">
+<h6>Meghan Trainor feat. John Legend</h6>
+</td>
+<td>
+<h6>Like I&#8217;m Gonna Lose You</h6>
+<p><strong><a href="http://www.lyricsmusiclyrics.com/view-441767-meghan_trainor_like_i_m_gonna_loose_you.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.lyricsmusiclyrics.com/view-441767-meghan_trainor_like_i_m_gonna_loose_you.html', 'LYRICS');" target="_blank">LYRICS</a></strong></td>
+</tr>
+<tr>
+<td id="pos77">
+<h6>77</h6>
+</td>
+<td id="rec6426" data-sorttable-customkey="Tove Lo">
+<h6>Tove Lo</h6>
+</td>
+<td>
+<h6>Habits (Stay High)</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos78">
+<h6>78</h6>
+</td>
+<td id="rec6427" data-sorttable-customkey="James Newton Howard feat. Jennifer Lawrence">
+<h6>James Newton Howard feat. Jennifer Lawrence</h6>
+</td>
+<td>
+<h6>The Hanging Tree</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos79">
+<h6>79</h6>
+</td>
+<td id="rec6428" data-sorttable-customkey="O.T. Genasis">
+<h6>O.T. Genasis</h6>
+</td>
+<td>
+<h6>Coco</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos80">
+<h6>80</h6>
+</td>
+<td id="rec6429" data-sorttable-customkey="Jessie J, Ariana Grande and Nicki Minaj">
+<h6>Jessie J, Ariana Grande and Nicki Minaj</h6>
+</td>
+<td>
+<h6>Bang Bang</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos81">
+<h6>81</h6>
+</td>
+<td id="rec6430" data-sorttable-customkey="Sam Smith">
+<h6>Sam Smith</h6>
+</td>
+<td>
+<h6>Lay Me Down</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos82">
+<h6>82</h6>
+</td>
+<td id="rec6431" data-sorttable-customkey="iLoveMakonnen feat. Drake">
+<h6>iLoveMakonnen feat. Drake</h6>
+</td>
+<td>
+<h6>Tuesday</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos83">
+<h6>83</h6>
+</td>
+<td id="rec6432" data-sorttable-customkey="iLoveMemphis">
+<h6>iLoveMemphis</h6>
+</td>
+<td>
+<h6>Hit The Quan</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos84">
+<h6>84</h6>
+</td>
+<td id="rec6433" data-sorttable-customkey="Macklemore and Ryan Lewis feat. Eric Nally, Melle Mel, Kool Moe Dee and Grandmaster Caz">
+<h6>Macklemore and Ryan Lewis feat. Eric Nally, Melle Mel, Kool Moe Dee and Grandmaster Caz</h6>
+</td>
+<td>
+<h6>Downtown</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos85">
+<h6>85</h6>
+</td>
+<td id="rec6434" data-sorttable-customkey="Sam Hunt">
+<h6>Sam Hunt</h6>
+</td>
+<td>
+<h6>House Party</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos86">
+<h6>86</h6>
+</td>
+<td id="rec6435" data-sorttable-customkey="Chris Brown and Tyga">
+<h6>Chris Brown and Tyga</h6>
+</td>
+<td>
+<h6>Ayo</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos87">
+<h6>87</h6>
+</td>
+<td id="rec6436" data-sorttable-customkey="Luke Bryan">
+<h6>Luke Bryan</h6>
+</td>
+<td>
+<h6>Kick The Dust Up</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos88">
+<h6>88</h6>
+</td>
+<td id="rec6437" data-sorttable-customkey="Big Sean feat. Drake">
+<h6>Big Sean feat. Drake</h6>
+</td>
+<td>
+<h6>Blessings</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos89">
+<h6>89</h6>
+</td>
+<td id="rec6438" data-sorttable-customkey="George Ezra">
+<h6>George Ezra</h6>
+</td>
+<td>
+<h6>Budapest</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos90">
+<h6>90</h6>
+</td>
+<td id="rec6439" data-sorttable-customkey="Sia">
+<h6>Sia</h6>
+</td>
+<td>
+<h6>Chandelier</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos91">
+<h6>91</h6>
+</td>
+<td id="rec6440" data-sorttable-customkey="Kelly Clarkson">
+<h6>Kelly Clarkson</h6>
+</td>
+<td>
+<h6>Heartbeat Song</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos92">
+<h6>92</h6>
+</td>
+<td id="rec6441" data-sorttable-customkey="Ed Sheeran">
+<h6>Ed Sheeran</h6>
+</td>
+<td>
+<h6>Don&#8217;t</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos93">
+<h6>93</h6>
+</td>
+<td id="rec6442" data-sorttable-customkey="Ella Henderson">
+<h6>Ella Henderson</h6>
+</td>
+<td>
+<h6>Ghost</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos94">
+<h6>94</h6>
+</td>
+<td id="rec6443" data-sorttable-customkey="Alessia Cara">
+<h6>Alessia Cara</h6>
+</td>
+<td>
+<h6>Here</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos95">
+<h6>95</h6>
+</td>
+<td id="rec6444" data-sorttable-customkey="Mr. Probz">
+<h6>Mr. Probz</h6>
+</td>
+<td>
+<h6>Waves</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos96">
+<h6>96</h6>
+</td>
+<td id="rec6445" data-sorttable-customkey="Nicky Jam and Enrique Iglesias">
+<h6>Nicky Jam and Enrique Iglesias</h6>
+</td>
+<td>
+<h6>El Perdon (Forgiveness)</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos97">
+<h6>97</h6>
+</td>
+<td id="rec6446" data-sorttable-customkey="Ne-Yo feat. Juicy J">
+<h6>Ne-Yo feat. Juicy J</h6>
+</td>
+<td>
+<h6>She Knows</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos98">
+<h6>98</h6>
+</td>
+<td id="rec6447" data-sorttable-customkey="One Direction">
+<h6>One Direction</h6>
+</td>
+<td>
+<h6>Night Changes</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos99">
+<h6>99</h6>
+</td>
+<td id="rec6448" data-sorttable-customkey="Drake">
+<h6>Drake</h6>
+</td>
+<td>
+<h6>Back To Back</h6>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td id="pos100">
+<h6>100</h6>
+</td>
+<td id="rec6449" data-sorttable-customkey="Calvin Harris and Disciples">
+<h6>Calvin Harris and Disciples</h6>
+</td>
+<td>
+<h6>How Deep Is Your Love</h6>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!--Ad Injection:bottom--><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- BBT100 300x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4129171827898399"
+     data-ad-slot="3556719888"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>        </div>
+
+                                            </article>
+                                
+                            
+                        
+                    
+                </div><!--.article-container -->
+
+           
+        <div class="span3 right tc-sidebar">
+           <div id="right" class="widget-area" role="complementary">
+              <aside id="adinj-4" class="widget adinjwidget"><!--Ad Injection:widget_4-->
+<div style=''><center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- BBT100 300x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4129171827898399"
+     data-ad-slot="3556719888"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center></div></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><h2 align="center"><span style="font-size: x-large;">Please visit our link partners:</span><span style="font-size: large;"> </span></h2>
+
+<h5 align="center"><a href="http://www.congressweb.com/GRAMMY/10" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.congressweb.com/GRAMMY/10', 'Support The Amp Act:');" title=""  target="_blank"><span style="font-size: large;">Support The Amp Act:</span></a></h5>
+
+<h5 align="center"><a href="http://www.grammy.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.grammy.com', 'The Recording Academy:');" title=""  target="_blank"><span style="font-size: large;">The Recording Academy:</span></a></h5>
+
+<h5 align="center"><a href="http://www.riaa.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.riaa.com/', 'RIAA:');" title=""  target="_blank"><span style="font-size: large;">RIAA:</span></a></h5>
+
+<h5 align="center"><a href="http://BMI.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://BMI.com', 'BMI:');" title=""  target="_blank"><span style="font-size: large;">BMI:</span></a></h5>
+
+<h5 align="center"><a href="http://www.bmifoundation.org/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.bmifoundation.org/', 'The BMI Foundation:');" title=""  target="_blank"><span style="font-size: large;">The BMI Foundation:</span></a></h5>
+
+<h5 align="center"><a href="http://ascap.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://ascap.com', 'ASCAP:');" title=""  target="_blank"><span style="font-size: large;">ASCAP:</span></a></h5>
+
+<h5 align="center"><a href="http://www.berklee.edu/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.berklee.edu/', 'Berklee College of Music:');" title=""  target="_blank"><span style="font-size: large;">Berklee College of Music:</span></a></h5>
+
+<h5 align="center"><a href="http://www.juilliard.edu/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.juilliard.edu/', 'Juilliard School of Music:');" title=""  target="_blank"><span style="font-size: large;">Juilliard School of Music:</span></a></h5>
+
+<h5 align="center"><a href="http://Billboard.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://Billboard.com', 'Billboard Magazine:');" title=""  target="_blank"><span style="font-size: large;">Billboard Magazine:</span></a></h5>
+
+<h5 align="center"><span style="font-size: large;"><a href="http://lyricsmusiclyrics.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://lyricsmusiclyrics.com', ' Find Music Lyrics Here:');" title=""  target="_blank"><span style="font-size: large;"> Find Music Lyrics Here:</a></span></h5>
+
+<h5 align="center"><a href="http://thebestmixengineer.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://thebestmixengineer.com', 'Lu Diaz Mix Engineer Site');" title=""  target="_blank"><span style="font-size: large;">Lu Diaz Mix Engineer Site</a></h5>
+
+
+<h5 align="center"><a href="http://thenginears.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://thenginears.com', 'The NGiNEARS Official Website');" title=""  target="_blank"><span style="font-size: large;">The NGiNEARS Official Website</a></h5>
+<h5 align="center"></h5></div>
+		</aside>            </div><!-- //#left or //#right -->
+        </div><!--.tc-sidebar -->
+
+        
+        </div><!--.row -->
+    </div><!-- .container role: main -->
+
+    <div id="tc-push-footer"></div>
+</div><!-- //#main-wrapper -->
+
+  		<!-- FOOTER -->
+  		<footer id="footer" class="">
+  		 					<div class="container footer-widgets ">
+                    <div class="row widget-area" role="complementary">
+												
+							<div id="footer_one" class="span4">
+																
+										<aside id="adinj-7" class="widget adinjwidget"><!--Ad Injection:widget_7--><div class="alignleft">
+     <script type="text/javascript">
+       	amzn_assoc_ad_type = "banner";
+	amzn_assoc_marketplace = "amazon";
+	amzn_assoc_region = "US";
+	amzn_assoc_placement = "assoc_banner_placement_default";
+	amzn_assoc_campaigns = "holsetforget2016";
+	amzn_assoc_banner_type = "setandforget";
+	amzn_assoc_p = "12";
+	amzn_assoc_width = "300";
+	amzn_assoc_height = "250";
+	amzn_assoc_tracking_id = "tag063-20";
+	amzn_assoc_linkid = "21b404d7119c3575531106f074089642";
+     </script>
+     <script src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1"></script>
+    </div></aside>
+																							</div><!-- .{$key}_widget_class -->
+
+						
+							<div id="footer_two" class="span4">
+																
+										<aside id="adinj-9" class="widget adinjwidget"><!--Ad Injection:widget_9--><script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "recomendads1-billboard-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results from Amazon";
+amzn_assoc_default_search_phrase = "iPhone7";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "1b75d3c67b77f891a746f1aa2e69faf7";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script></aside>
+																							</div><!-- .{$key}_widget_class -->
+
+						
+							<div id="footer_three" class="span4">
+																
+										<aside id="adinj-8" class="widget adinjwidget"><!--Ad Injection:widget_8--><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- BBT100 300x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4129171827898399"
+     data-ad-slot="3556719888"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></aside>
+																							</div><!-- .{$key}_widget_class -->
+
+																	</div><!-- .row.widget-area -->
+				</div><!--.footer-widgets -->
+				    				 <div class="colophon">
+			 	<div class="container">
+			 		<div class="row-fluid">
+					    <div class="span3 social-block pull-left"><span class="tc-footer-social-links-wrapper" ><a class="social-icon icon-email" href="mailto:thealdgroup@gmail.com" title="E-mail"  ></a><a class="social-icon icon-twitter" href="http://twitter.com/musicmonsta13" title="Follow me on Twitter" target=_blank ></a><a class="social-icon icon-instagram" href="https://instagram.com/billboardtop100hits" title="Follow me on Instagram" target=_blank ></a></span></div><div class="span6 credits"><p>&middot; <span class="tc-copyright-text">&copy; 2017</span> <a href="http://billboardtop100of.com" title="Billboard Top 100" rel="bookmark">Billboard Top 100</a> &middot; <span class="tc-credits-text">Designed by</span> <a href="http://presscustomizr.com/">Press Customizr</a> &middot; <span class="tc-wp-powered-text">Powered by</span> <a class="icon-wordpress" target="_blank" href="https://wordpress.org" title="Powered by Wordpress"></a> &middot;</p></div>	      			</div><!-- .row-fluid -->
+	      		</div><!-- .container -->
+	      	</div><!-- .colophon -->
+	    	  		</footer>
+    </div><!-- //#tc-page-wrapper -->
+		<script type='text/javascript' src='http://billboardtop100of.com/wp/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://billboardtop100of.com/wp/wp-content/themes/customizr/inc/assets/js/modernizr.min.js?ver=3.4.23'></script>
+<script type='text/javascript' src='http://billboardtop100of.com/wp/wp-includes/js/wp-embed.min.js?ver=4.7'></script>
+<div id="tc-footer-btt-wrapper" class="tc-btt-wrapper right"><i class="btt-arrow"></i></div>	</body>
+	</html>
